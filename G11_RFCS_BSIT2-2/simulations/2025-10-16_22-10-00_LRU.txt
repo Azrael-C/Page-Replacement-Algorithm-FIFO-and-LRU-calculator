@@ -1,0 +1,5 @@
+Algorithm:LRU
+Frames:5
+References:S Y N E S T H E S I A
+Date:2025-10-16T22:10:00.9417522
+PageFaults:8

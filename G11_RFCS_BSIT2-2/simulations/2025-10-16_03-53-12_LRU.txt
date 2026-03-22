@@ -1,0 +1,5 @@
+Algorithm:LRU
+Frames:6
+References:M A Y O N N A I S E
+Date:2025-10-16T03:53:12.3626493
+PageFaults:8

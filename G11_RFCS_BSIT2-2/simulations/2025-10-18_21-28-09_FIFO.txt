@@ -1,0 +1,5 @@
+Algorithm:FIFO
+Frames:3
+References:C O M S C I 2 0 0 1
+Date:2025-10-18T21:28:09.0636476
+PageFaults:9

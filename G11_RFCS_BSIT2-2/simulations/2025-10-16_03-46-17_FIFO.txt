@@ -1,0 +1,5 @@
+Algorithm:FIFO
+Frames:5
+References:S Y N E S T H E S I A
+Date:2025-10-16T03:46:17.2912021
+PageFaults:9

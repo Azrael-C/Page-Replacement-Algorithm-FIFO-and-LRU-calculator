@@ -1,0 +1,5 @@
+Algorithm:LRU
+Frames:2
+References:R O K S I
+Date:2025-10-16T21:45:24.0216653
+PageFaults:5

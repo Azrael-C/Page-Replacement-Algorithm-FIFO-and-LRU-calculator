@@ -1,0 +1,5 @@
+Algorithm:FIFO
+Frames:10
+References:P N E U M O N O S I L I V O L C A N I O N I S I S
+Date:2025-10-16T22:30:01.1318432
+PageFaults:13

@@ -1,0 +1,5 @@
+Algorithm:FIFO
+Frames:10
+References:P A G E R E P L A C E M E N T L O O K I N G G O O D
+Date:2025-10-21T00:39:02.1029321
+PageFaults:15
