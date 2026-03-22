@@ -5,5 +5,5 @@ A simple calculator that simulates **FIFO (First-In, First-Out)** and **LRU (Lea
 <ul>
   <li>Franco, Kueight Chester</li>
   <li>Cabiles, Denise</li>
-  <li>Santos, Luzel Kate<li>
+  <li>Santos, Luzel Kate</li>
 </ul>
